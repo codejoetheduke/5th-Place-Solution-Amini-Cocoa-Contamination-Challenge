@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+PyYAML
+tqdm
+scikit-learn
+torch
+ultralytics
+albumentations
+iterative-stratification
+ensemble-boxes
+notebook
