@@ -1,4 +1,4 @@
-# Amini-Cocoa-Contamination-Challenge
+# 5th Place Amini-Cocoa-Contamination-Challenge Solution By SPECIALZ🔥🔥🙌🏽
 
 This project addresses the **Amini Cocoa Contamination Challenge**, which aims to detect multiple cocoa leaf diseases—such as **CSSVD** and **Anthracnose**—from images.
 
