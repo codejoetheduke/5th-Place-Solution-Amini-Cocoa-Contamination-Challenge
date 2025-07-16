@@ -1,5 +1,9 @@
 # 5th Place Amini-Cocoa-Contamination-Challenge Solution By SPECIALZ🔥🔥🙌🏽
 
+<img width="2048" height="640" alt="upscaled_leaf_2048x2048" src="https://github.com/user-attachments/assets/d53c3a78-b86e-4c0f-b30c-4704257e4b82" />
+
+---
+
 This project addresses the **Amini Cocoa Contamination Challenge**, which aims to detect multiple cocoa leaf diseases—such as **CSSVD** and **Anthracnose**—from images.
 
 The goal is to build a real-time, smartphone-ready disease detection system using object detection models like **YOLOv11**, with emphasis on accuracy, inference efficiency, and explainability.
