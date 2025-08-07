@@ -35,9 +35,9 @@ The goal is to build a real-time, smartphone-ready disease detection system usin
                │
                ▼
 ┌─────────────────────────────┐
-│ YOLOv11 Training             │
-│  • Custom config & anchors   │
-│  • Multi-scale training      │
+│ YOLOv11 Training            │
+│  • Custom config & anchors   
+│  • Multi-scale training     │
 └──────────────┬──────────────┘
                │
                ▼
