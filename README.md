@@ -56,9 +56,9 @@ The goal is to build a real-time, smartphone-ready disease detection system usin
                │
                ▼
 ┌─────────────────────────────┐
-│ Post-processing & Submission │
-│  • Format predictions        │
-│  • Export submission file    │
+│ Post-processing & Submission│
+│  • Format predictions       │
+│  • Export submission file   │
 └─────────────────────────────┘
 
 ```
