@@ -36,15 +36,15 @@ The goal is to build a real-time, smartphone-ready disease detection system usin
                ▼
 ┌─────────────────────────────┐
 │ YOLOv11 Training            │
-│  • Custom config & anchors   
+│  • Custom config & anchors  │
 │  • Multi-scale training     │
 └──────────────┬──────────────┘
                │
                ▼
 ┌─────────────────────────────┐
-│ Validation & Metrics Logging │
-│  • mAP / Precision / Recall  │
-│  • Loss curves & checkpoints │
+│ Validation & Metrics Logging│
+│  • mAP / Precision / Recall │
+│  • Loss curves & checkpoints│
 └──────────────┬──────────────┘
                │
                ▼
