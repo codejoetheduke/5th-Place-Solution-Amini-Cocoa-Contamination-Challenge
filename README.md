@@ -22,7 +22,7 @@ The goal is to build a real-time, smartphone-ready disease detection system usin
 ## 🧱 Architecture Overview
 ```csharp
 ┌─────────────────────────────┐
-│        Image Dataset         │
+│        Image Dataset        │
 └──────────────┬──────────────┘
                │
                ▼
