@@ -49,7 +49,7 @@ The goal is to build a real-time, smartphone-ready disease detection system usin
                │
                ▼
 ┌─────────────────────────────┐
-│ Inference                    │
+│ Inference                   │
 │  • Test-Time Augmentation    │
 │  • Weighted Box Fusion       │
 └──────────────┬──────────────┘
